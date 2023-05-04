@@ -8,6 +8,8 @@ body {
   background-color: var(--bg);
   color: var(--textColor);
   font-family: "Source Serif Pro", serif;
+  text-decoration: none;
+  text-transform: none;
 }
 
 /* #content {
